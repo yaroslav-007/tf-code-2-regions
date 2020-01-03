@@ -1,7 +1,7 @@
-# Packer project that creates Multiple Provider Instances
+# Terraform project that creates Multiple Provider Instances
 This is project creates Multiple Provider Instances in AWS accordingly to article: https://www.terraform.io/docs/configuration/providers.html#alias-multiple-provider-instances
 
-When runapplied, it will create one EC2 instance in London and second in Franfurt
+When applied, it will create one EC2 instance in London and second in Franfurt
 
 ## Pre-requirements
 
